@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>neural_network1._0</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="NeuralNetwork.cs~RF177d8ac.TMP" />
+  </ItemGroup>
+
+</Project>
